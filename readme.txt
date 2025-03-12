@@ -18,7 +18,7 @@ Results: Performance metrics and sample detections
 
 Installation  
 Clone the repository:  
-git clone https://github.com/Doomsday110/Deep-Learning.git
+git clone https://github.com/Doomsday110/car_detection.git
 cd Deep-Learning
  
 Install dependencies:  
